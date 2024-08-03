@@ -3,7 +3,7 @@ import stlapic from "../assets/stla.jpg"
 
 const About = () => {
   return (
-    <div className='flex flex-col-reverse md:flex-row-reverse md:px-20 '>
+    <div className='flex flex-col-reverse md:flex-row-reverse md:mx-24 '>
       <div className='py-4 text-slate-700 font-semibold text-2xl px-2 md:px-6 m-1 place-content-center'>
         I’m <span className='bg-gradient-to-r from-pink-600 to-pink-400 text-transparent bg-clip-text' >Viswanathan</span>. I work on <span className='text-green-500'>AI</span> and things.. 
         I also make websites.. 

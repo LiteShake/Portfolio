@@ -3,8 +3,8 @@ import SkillScroll from "./SkillScroll.jsx"
 
 const Skills = () => {
   return (
-    <div className=''>
-        <div className='text-6xl text-center text-slate-800 font-semibold'>
+    <div className='md:mx-24'>
+        <div className='text-5xl text-center text-slate-800 font-semibold py-6'>
             I Work With
         </div>
         <div className=''>

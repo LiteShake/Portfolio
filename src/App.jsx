@@ -14,13 +14,15 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className='bg-slate-100 p-6'>
+    <div className='bg-slate-100'>
       < Header />
-      < Hello />
-      < About />
-      < Skills />
-      < Projects />
-      < Research />
+      < Hello className='' />
+      <div className='p-6'> 
+        < About />
+        < Skills />
+        < Projects />
+        < Research />
+      </div>
       < Contact />
       < Footer />
     </div>
