@@ -10,6 +10,9 @@ export default {
   mode: 'jit',
   theme: {
     extend: {
+      scale: {
+        '98' : '0.98',
+      },
       animation: {
         marquee: 'marquee 25s linear infinite',
         marquee2: 'marquee2 25s linear infinite',
