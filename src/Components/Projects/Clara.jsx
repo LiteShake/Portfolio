@@ -11,7 +11,7 @@ const Clara = () => {
                 <DiscFill/>
             </div>
             <div className='m-3'>
-            Coming Soon
+            Under Construction
             </div>
         </div>
     </div>
