@@ -14,7 +14,6 @@ function App() {
 
   return (
     <div className='bg-slate-100'>
-      < Header />
       < Hello className='' />
       <div className='p-6'> 
         < About />
