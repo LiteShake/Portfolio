@@ -22,7 +22,7 @@ const Hello = () => {
           Viswanathan V
         </div>
         <div className='text-lg italic mx-8'>
-          "The only thing that has the power to stop you is your own mind"
+          Developing and training softwares that can think.
         </div>
       </div>
     </div>
