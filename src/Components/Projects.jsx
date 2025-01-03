@@ -8,7 +8,7 @@ const Projects = () => {
   return (
     <div className='md:mx-20'>
       <div className='text-5xl text-center text-slate-800 font-semibold py-6'>
-          Projects
+          AI Projects
       </div>
       <StellaLM/>
       <UkkaDiff/>

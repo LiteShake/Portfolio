@@ -6,6 +6,7 @@ import Hello from "./Components/Hello.jsx"
 import About from "./Components/About.jsx"
 import Skills from "./Components/Skills.jsx"
 import Projects from "./Components/Projects.jsx"
+import Games from "./Components/Games.jsx"
 import Research from "./Components/Research.jsx"
 import Contact from "./Components/Contact.jsx"
 
@@ -19,6 +20,7 @@ function App() {
         < About />
         < Skills />
         < Projects />
+        < Games />
         < Research />
       </div>
       < Contact />
