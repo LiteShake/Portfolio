@@ -7,7 +7,7 @@ import { DiscFill } from 'react-bootstrap-icons'
 const Pong = () => {
   return (
     <div className='bg-[url("../../assets/stla.jpg")] bg-cover bg-center text-orange  -500 font-semibold p-3 m-4 rounded-xl shadow-lg shadow-orange-300 flex-col lg:flex-row transition duration-500 hover:scale-98' style={{ backgroundImage:`url(${purppic})`}}>
-        <div className='flex'>
+        <div className='flex w-full flex place-content-evenly'>
             <img src={ponggif} alt="Fall Demo" className='shadow-xl shadow-sky-200/70 object-scale-down h-72' />
         </div>
         <div className=''>
@@ -26,6 +26,9 @@ const Pong = () => {
                         </li>
                         <li className='transition duration-500 ease-in-out backdrop-blur-md hover:shadow-md hover:shadow-orange-500/50 bg-orange-500/60 p-3 my-2 hover:text-white hover:backdrop-blur-xl rounded-xl'>
                         Added places in the games for unobtrusive advertisements.
+                        </li>
+                        <li className='transition duration-500 ease-in-out backdrop-blur-md hover:shadow-md hover:shadow-md hover:shadow-orange-500/50 bg-orange-500/60 p-3 my-2 hover:text-white hover:backdrop-blur-xl rounded-xl flex place-content-evenly'>
+                            <a href="https://github.com/LiteShake/Unity-Pong2D" className='text-orange-500 bg-slate-100 p-1 px-4 rounded-md'>Github</a>
                         </li>
                     </ul>
                 </div>
