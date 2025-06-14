@@ -3,6 +3,7 @@ import StellaLM from './Projects/StellaLM.jsx'
 import UkkaDiff from './Projects/UkkaDiff.jsx'
 import Companion from './Projects/Companion.jsx'
 import Clara from './Projects/Clara.jsx'
+import Surround from './Projects/Surround.jsx'
 
 const Projects = () => {
   return (
@@ -14,6 +15,7 @@ const Projects = () => {
       <UkkaDiff/>
       <Companion/>
       <Clara/>
+      <Surround/>
     </div>
   )
 }

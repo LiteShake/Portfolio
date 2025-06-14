@@ -20,7 +20,7 @@ function App() {
         < About />
         < Skills />
         < Projects />
-        < Games />
+        {/* < Games /> */}
         < Research />
       </div>
       < Contact />
