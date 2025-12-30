@@ -20,7 +20,7 @@ const Companion = () => {
                     A server side application that uses AI to achieve ease-of-use for my computer along with a visual terminal application to control it.
                     </li>
                     <li className='transition duration-500 ease-in-out backdrop-blur-md hover:shadow-md hover:shadow-purple-500/50 bg-purple-800/60 p-3 my-2 hover:text-white hover:backdrop-blur-xl rounded-xl'>
-                    Uses Gemma and a Custom-built language model(to get a unique experience) to understand language and talk like a friendly virtual assistant and help with repetetive tasks in the system.
+                    Uses an MoE like orchestration of Mistral and Phi3 on Llama-cpp to understand language and emotions and talk like a friend.
                     </li>
                 </ul>
             </div>

@@ -15,7 +15,7 @@ const BERTSVM = () => {
                 <div className='text-2xl text-center text-sky-500 bg-slate-100/80 backdrop-blur-md font-semibold px-3 py-4 flex flex-row w-full'>
                     MIMIC III Text classification with the
                     generalization of BERT transformer model
-                    synergized with XGBoost classifier
+                    synergized with XGBoost classifier (2023)
                 </div>
                 <div className=''>
                     <div className='py-4 md:py-2 text-white font-semibold text-xl px-2 md:px-2 m-1 place-content-center'>

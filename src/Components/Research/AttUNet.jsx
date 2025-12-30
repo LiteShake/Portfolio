@@ -13,7 +13,7 @@ const AttUNet = () => {
             </div>
             <div>
                 <div className='text-2xl text-center text-green-500 bg-slate-100/80 backdrop-blur-md font-semibold px-3 py-4 flex flex-row w-full'>
-                    Segmentation of Instances in an Image with Custom Neural Networks
+                    Segmentation of Instances in an Image with Custom Neural Networks (2024)
                 </div>
                 <div className=''>
                     <div className='py-4 md:py-2 text-white font-semibold text-xl px-2 md:px-2 m-1 place-content-center'>

@@ -1,6 +1,7 @@
 import React from 'react'
 import BERTSVM from './Research/BERTSVM'
 import AttUNet from './Research/AttUNet'
+import MusicCLRA from './Research/Music'
 
 const Research = () => {
   return (
@@ -9,8 +10,9 @@ const Research = () => {
           Research
       </div>
       <div>
-          <BERTSVM />
+          <MusicCLRA />
           <AttUNet />
+          <BERTSVM />
       </div>
     </div>
   )
